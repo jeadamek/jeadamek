@@ -5,7 +5,7 @@
 - 🎓 Graduada em Design
 - ⚡ Fun fact: 
   * Dog lover 🐶
-  * Já morei na Califórnia 🌊 e Carolina do Norte ✈️
+  * Já morei na Califórnia 🌊 e Carolina do Norte <img height="16rem" src="https://i.imgur.com/9vqJARV.png"/>
 
 
 <div>
