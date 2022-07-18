@@ -1,12 +1,10 @@
-### Oi! Sou a Jessica 👋
+### Hi! I'm Jessica 👋
 
 - 💻 Dev Front-end
-- 🌱 Atualmete estudando HTML, CSS, JavaScript e React
-- 🎓 Graduada em Design
-- ⚡ Fun fact: 
-  * Dog lover 🐶
-  * Já morei na Califórnia 🌊 e Carolina do Norte <img height="16rem" src="https://i.imgur.com/9vqJARV.png"/>
-
+- 🌱 Current studing HTML, CSS, JavaScript e React
+- 🎓 Graduated in Design
+- 🐶 Dog lover
+- ✈️ traveler
 
 <div>
   <a href="https://github.com/jeadamek">
