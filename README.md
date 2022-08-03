@@ -1,7 +1,7 @@
 ### Hi! I'm Jessica 👋
 
 - 💻 Dev Front-end
-- 🌱 Current studing HTML, CSS, JavaScript e React
+- 🌱 Current learning HTML, CSS, JavaScript and React
 - 🎓 Graduated in Design
 - 🐶 Dog lover
 - ✈️ traveler
