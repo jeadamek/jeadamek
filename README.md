@@ -1,6 +1,6 @@
-<h1 align="center"> 
+<h3 align="center"> 
    Hi there!👋
- </h1>
+ </h3>
 <h3 align="center">
   I'm Jessica, Front-end Developer from Brazil
 </h3>
